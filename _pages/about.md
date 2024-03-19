@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I'm Lin Han, currently concluding my PhD journey at the Department of Chemistry and Chemical Biology at Cornell University, with my research deeply immersed in the intricate chemoproteomic study of essential enzymes within the gut microbiome. This endeavor fuels my passion for uncovering the mysteries of microbiology. Prior to this, I completed both my bachelor's and master's degrees at Peking University, specializing in organic synthesis, specifically in protein synthesis, which introduced me to the vast and fascinating world of chemical biology.
 
-Put the address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put the addresss / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
